@@ -159,6 +159,7 @@ ENV/
 env.bak/
 venv.bak/
 
+.idea/
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -218,3 +219,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#directories
+data/raw/
